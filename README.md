@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web/Software Developer
 ----------------------
 
-I am a Self-Taught Programmer with 5 years of experience in Web Dev, Web Design and Mobile App Development (with Flutter) and Design. I am very passionate about technology and I am very hard working.
+I  build Web Sites Web Apps and Mobile Apps (with Flutter). I'm also  UI/UX designer. I am very passionate about technology and I am very hard working.
 
 * 🌍  I'm based in Wa, Upper West Ghana
 * ✉️  You can contact me at [iamjimah@gmail.com](mailto:iamjimah@gmail.com)
